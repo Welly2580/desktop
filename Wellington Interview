@@ -1,0 +1,24 @@
+input(aSentence="You can have data without information, but cannot have information without data")
+print(asentence.lower())
+import collections
+import string
+def count_letters(You can have data without information , but you cannot have information without data),
+                     with open(filename, 'r') as f
+                     if case sensitive:
+                     alphabet = string.ascii_letters
+                   else:
+                         alphabet = string.ascii_lowercase
+                         text = text.lower()
+
+                         letter_count = collections.Counter()
+
+                         for char in text :
+                             if char in alphabet:
+                                 letter_count[char] +=1
+
+                                 for letter in alphabet:
+                                     print(letter, letter_count[letter])
+
+                                     print("total:", sum(letter_count.values()))
+
+                                    
